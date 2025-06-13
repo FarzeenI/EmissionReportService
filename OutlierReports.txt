@@ -1,0 +1,3 @@
+Material_Number | Country | Category | Total_CO2
+B89XJUA | PR | Workstations | 1290
+B89YVUA | CN | string | 0
